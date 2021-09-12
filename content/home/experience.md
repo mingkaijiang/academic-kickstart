@@ -22,28 +22,31 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Lecturer
+    company: Western Sydney University
+    company_url: 'westernsydney.edu.au'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Sydney, Australia
+    date_start: '2021-02-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+        * Research
+        * Teaching
+
+  - title: Postdoctoral Research Fellow
+    company: Western Sydney University
+    company_url: 'westernsydney.edu.au'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Sydney, Australia
+    date_start: '2016-06-01'
+    date_end: '2021-01-31'
+    description: |2-
+        Responsibilities include:
+        
+        * Research
+        * Teaching
 
 design:
   columns: '2'
