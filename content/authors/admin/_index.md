@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Mingkai Jiang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ecosystem ecologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Western Sydney University
+  url: https://www.westernsydney.edu.au/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Dr. Jiang is a terrestrial ecosystem ecologist, with broad research interests in plant physiology, global change ecology and mathematical modelling.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Global carbon budget
+- Plant-soil interaction
+- Ecosystem services
 
 # Education to show in About widget
 education:
@@ -45,13 +45,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/jiangmingkai
+  label: Follow me on Twitter
+  display:
+    header: true
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=wwUS-e8AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/mingkaijiang
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
