@@ -3,7 +3,53 @@ title: "The fate of carbon in a mature forest under carbon dioxide enrichment"
 authors:
 - admin
 - Belinda E. Medlyn
-- et al.
+- John E. Drake
+- Remko Duursma
+- Ian C. Anderson
+- Craig V.M. Barton
+- Matthias M. Boer
+- Yolima Carrillo
+- Laura Castaneda-Gomez
+- Luke Collins
+- Kristine Y. Crous
+- Martin G. De Kauwe
+- Bruna M. dos Santos
+- Kathryn M Emmerson
+- Sarah L. Facey
+- Andrew N Gherlenda
+- Teresa E. Gimeno
+- Shun Hasegawa
+- Scott N. Johnson
+- Astrid Kannaste
+- Catriona A. Macdonald
+- Kashif Mahmud
+- Ben D. Moore
+- Loic Nazaries
+- Elizabeth H.J. Neilson
+- Uffe N. Nielsen
+- Ulo Niinemets
+- Nam Jin Noh
+- Raul Ochoa-Hueso
+- Varsha S. Pathare
+- Elise Pendall
+- Johanna Pihlblad
+- Juan Pineiro
+- Jeff R. Powell
+- Sally A. Power
+- Peter B. Reich
+- Alexandre A. Renchon
+- Markus Riegler
+- Riikka Rinnan
+- Paul D. Rymer
+- Roberto L. Salomon
+- Brajesh K. Singh
+- Benjamin Smith
+- Mark G. Tjoelker
+- Jennifer K.M. Walker
+- Agnieszka Wujeska-Klause
+- Jinyan Yang
+- Sonke Zaehle
+- David Ellsworth
 author_notes:
 - "Correspondence author"
 - "Correspondence author"
