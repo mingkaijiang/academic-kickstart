@@ -30,9 +30,9 @@ address:
   country: Australia
   country_code: AU
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '-33.36474'
+  longitude: '150.44549'
+directions: Building L3, Hawkesbury Institute for the Environment
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
@@ -46,14 +46,6 @@ contact_links:
     icon_pack: fab
     name: Skype Me
     link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
 
 # Site header
 
@@ -88,12 +80,12 @@ edit_page:
   repo_branch: main
   editable:
     page: false
-    post: false
+    news: false
     book: false
 show_related:
   book: true
   page: false
-  post: true
+  news: true
   project: true
   publication: true
   event: true
@@ -125,7 +117,7 @@ breadcrumb:
 comments:
   provider: ''
   commentable:
-    post: true
+    news: true
     book: true
     project: true
     publication: true
