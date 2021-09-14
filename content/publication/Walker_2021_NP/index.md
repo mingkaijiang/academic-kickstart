@@ -1,28 +1,89 @@
 ---
-title: "An example conference paper"
+title: "Integrating evidence for a terrestrial carbon sink caused by increasing atmospheric CO2"
 authors:
+- Anthony Walker
+- M.G. De Kauwe 
+- A. Bastos
+- S. Belmecheri
+- K. Georgiou
+- R. Keeling
+- S. McMahon
+- B.E. Medlyn
+- D.J.P. Moore
+- R.J. Norby
+- S. Zaehle
+- K. Anderson-Teixeira
+- G. Battipaglia
+- R. Brienen
+- K. Cabugao
+- M. Cailleret
+- E. Campbell
+- P. Canadell
+- P. Ciais
+- M.E. Craig
+- D.S. Ellsworth
+- G. Farquhar
+- S. Fatichi
+- J.B. Fisher
+- D. Frank
+- H. Graven
+- L. Gu
+- V. Haverd
+- K. Heilman
+- M. Heimann
+- B. Hungate
+- C.M. Iversen
+- F. Joos
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
-doi: ""
+- T.F. Keenan
+- J. Knauer
+- W.K. Smith
+- C. Korner
+- V.O. Leshyk
+- S. Leuzinger
+- Y. Liu
+- N. MacBean
+- Y. Malhi
+- T. McVicar
+- J. Penuelas
+- J. Pongratz
+- A.S. Powell
+- T. Riutta
+- M.E.B. Sabot
+- J. Schleucher
+- S. Sitch
+- B. Sulman
+- B. Taylor
+- C. Terrer
+- M. Torn
+- K. Treseder
+- A. Trugman
+- S. Trumbore
+- P.J. van Mantgem
+- S.L. Voelker
+- M. Whelan
+- P. Zuidema
+
+date: "2021-01-01T00:00:00Z"
+doi: "https://doi.org/10.1111/nph.16866"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: "*New Phytologist*, 229, 2413-2445"
+publication_short: 
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
@@ -30,8 +91,8 @@ featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+  url: 
+url_pdf: 
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
