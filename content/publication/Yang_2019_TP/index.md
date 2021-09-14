@@ -1,24 +1,28 @@
 ---
-title: "Low sensitivity of gross primary production to elevated CO2 in a mature Eucalypt woodland"
+title: "Incorporating non-stomatal limitation improves the performance of leaf and canopy models at high vapour pressure deficit"
 authors:
 - Jinyan Yang
-- Belinda E. Medlyn
-- Martin G. De Kauwe
 - Remko A. Duursma
-- admin
+
+- Martin G. De Kauwe
 - Dushan Kumarathunge
-- Kristine Y. Crous
+- admin
+- Kashif Muhmud
 - Teresa E. Gimeno
-- A. Wujeska-Klause
+- Kristine Y. Crous 
 - David S. Ellsworth
+- Jen Peters
+- Brendan Choat
+- D. Eamus
+- Belinda E. Medlyn
 author_notes:
 - "Correspondence author"
 - ""
-date: "2020-01-01T00:00:00Z"
-doi: "https://doi.org/10.5194/bg-17-265-2020"
+date: "2019-12-13T00:00:00Z"
+doi: "https://doi.org/10.1093/treephys/tpz103"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-01-01T00:00:00Z"
+publishDate: "2019-12-13T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,7 +31,7 @@ publishDate: "2020-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Biogeosciences*, 17, 265–279"
+publication: "*Tree Physiology*, 39, 1961-1974"
 publication_short: ""
 
 abstract: 
